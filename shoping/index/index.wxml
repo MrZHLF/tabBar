@@ -1,4 +1,37 @@
-
-<text>首页</text>
-<button bindtap="onDetail">跳转到详情页</button>
+<view class="box">22222</view>
+<view class="container">
+  <text>首页</text>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+</view>
+<!-- <button bindtap="onDetail">跳转到详情页</button>
+<cover-view class="tab-bar">
+  <cover-view class="tab-bar-border"></cover-view>
+</cover-view> -->
 <nav-tabar selected="{{selected}}"></nav-tabar> 

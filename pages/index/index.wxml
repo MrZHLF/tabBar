@@ -1,6 +1,35 @@
 <!--index.wxml-->
+<button bindtap="onTabBar">跳转到另外一个tab</button>
 <view class="container">
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
+  <view class="item">4</view>
   <text class="title">小程序底部菜单栏</text>
-  <button bindtap="onTabBar">跳转到另外一个tab</button>
+  
 </view>
  

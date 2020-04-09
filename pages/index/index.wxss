@@ -3,3 +3,8 @@
   text-align: center;
   padding: 30rpx 0;
 }
+.container .item {
+  width: 100%;
+  height: 100rpx;
+  display: block
+}
