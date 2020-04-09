@@ -1,0 +1,3 @@
+<view>
+  <button bindtap="onTabBar">跳转到另外一个tab</button>
+</view>

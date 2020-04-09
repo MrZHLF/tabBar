@@ -1,0 +1,4 @@
+
+<text>首页</text>
+<button bindtap="onDetail">跳转到详情页</button>
+<nav-tabar selected="{{selected}}"></nav-tabar> 

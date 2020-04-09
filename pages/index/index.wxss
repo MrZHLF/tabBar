@@ -1,0 +1,5 @@
+.title{
+  display: block;
+  text-align: center;
+  padding: 30rpx 0;
+}

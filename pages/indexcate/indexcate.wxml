@@ -1,0 +1,4 @@
+<view>
+  发现
+  <button bindtap="onDetail">跳转详情页面</button>
+</view>

@@ -1,0 +1,3 @@
+<text>购物车</text>
+
+<nav-tabar selected="{{selected}}"></nav-tabar>

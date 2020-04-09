@@ -1,0 +1,2 @@
+<text>我的</text>
+<nav-tabar selected="{{selected}}"></nav-tabar>
